@@ -49,10 +49,10 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;<img width="500" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=blkkap&layout=compact&hide=html&theme=dracula&hide_border=true"><br> -->
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
   
    
-</a>
+</a> -->
 </p>
 
 

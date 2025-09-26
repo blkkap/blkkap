@@ -66,9 +66,7 @@
  
  [![anonymousEROS LeetCode stats](https://leetcode-stats-six.vercel.app/?username=blkcap2u&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  -->
 
- ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
- 
-<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
 <!--
  ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  -->
@@ -86,6 +84,10 @@ if (isAwesome) {
   <img align="center" width =550 height= 300 src="images/blkkapCard.gif"/>
 
 </div>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+ 
+<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 <!--
 <img align="left" width="250" height="400" src="images/Anime.gif"  />

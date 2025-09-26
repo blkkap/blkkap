@@ -1,5 +1,5 @@
 <!-- <br> -->
-<h1  style="color: red; font-size: 48px; align="center">Im BATMAN</h1>
+<h1  style="color: red; font-size: 48px;" align="center">Im BATMAN</h1>
 <p align="center">
  
  <div  id="header" align="center">

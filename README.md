@@ -4,8 +4,9 @@
  
  <div  id="header" align="center">
   <img width =600 height= 250 src="https://media.giphy.com/media/fV0oSDsZ4UgdW/giphy.gif" width="100"/>
-
+<!--
   [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/blkkap)
+  -->
 </div>
 
 

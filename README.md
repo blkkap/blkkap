@@ -87,5 +87,6 @@ if (isAwesome) {
 
 </div>
 
-
+<!--
 <img align="left" width="250" height="400" src="images/Anime.gif"  />
+-->
